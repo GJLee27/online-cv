@@ -161,10 +161,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Interaction effect between NAFLD severity and high carbohydrate diet on gut microbiome alteration and hepatic <i>de novo</i> lipogenesis.
+        link: "https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2078612"
+        authors: Hyena Kang*, Hyun Ju You*, <font color="#009193"><b>Giljae Lee</b></font>, Seung Hyun Lee, Taekyung Yoo, Murim Choi, Sae Kyung Joo, Jeong Hwan Park, Mee Soo Chang, Dong Hyeon Lee, Won Kim, GwangPyo Ko and Innovative Target Exploration of NAFLD (ITEN) consortium
+        conference: Gut Microbes 14(1), 2022
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
