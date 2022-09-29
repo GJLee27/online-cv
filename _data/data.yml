@@ -60,9 +60,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BE in Environmental Engineering
-        university: Ajou University, Suwon, Republic of Korea
-        time: 2007 - 2014
+      - degree: PhD in Public Health
+        university: Seoul National University, Seoul, Republic of Korea
+        time: 2016 - 2022
         details: |
           Describe your study here.
             - Bullet point
@@ -74,9 +74,9 @@ education:
           Describe your study here.
             - Bullet point
             - Bullet point
-      - degree: PhD in Public Health
-        university: Seoul National University, Seoul, Republic of Korea
-        time: 2016 - 2022
+      - degree: BE in Environmental Engineering
+        university: Ajou University, Suwon, Republic of Korea
+        time: 2007 - 2014
         details: |
           Describe your study here.
             - Bullet point
