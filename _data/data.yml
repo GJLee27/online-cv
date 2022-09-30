@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: CURRENT POSITION
     summary: |
-      I am currently working as a postdoctoral research associate affiliated with Enviornmental Health Microbiology lab and Bio-MAX/N-Bio at Seoul National University. I earned my Ph. D. Degree in Public Health at Seoul National University under the supervision of Prof. GwangPyo Ko in 2022. My research focuses on computational approaches to identify disease-associated microbiome and molecular mechanisms to determine roles of microbiome in disease.
+      I am currently working as a postdoctoral research associate affiliated with Enviornmental Health Microbiology lab and Bio-MAX/N-Bio at Seoul National University. I earned my Ph. D. Degree in Public Health at Seoul National University under the supervision of Prof. GwangPyo Ko in 2022.
 education:
     title: Education
     info:
@@ -80,7 +80,7 @@ education:
         details: |
           Describe your study here.
             - Bullet point
-            - Bullet point     
+            - Bullet point
             
 experiences:
     title: Experiences
