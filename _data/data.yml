@@ -67,22 +67,18 @@ education:
           Dissertation: "Identification of Nonalcoholic Fatty Liver Disease-Associated Microbiome in the Nested Case Control Study and Evaluation of the Effect in Mouse Models"
           (Advisor: Prof. GwangPyo Ko)
             - Bullet point
-            - Bullet point
       - degree: MPH in Public Health
         university: Seoul National University, Republic of Korea
         time: 2014 - 2016
         details: |
           (Advisor: Prof. GwangPyo Ko)
-            - Bullet point
-            - Bullet point
       - degree: BE in Environmental Engineering
         university: Ajou University, Republic of Korea
         time: 2007 - 2014
-        details: |
   
             
 experiences:
-    title: Experiences
+    title: Research experiences
     info:
       - role: Lead Developer
         time: 2015 - Present
